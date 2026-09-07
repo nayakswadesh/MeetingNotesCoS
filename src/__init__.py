@@ -1,0 +1,1 @@
+"""MeetingNotesCoS package."""

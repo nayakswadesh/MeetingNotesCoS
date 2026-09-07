@@ -1,0 +1,7 @@
+faster-whisper
+langchain-openai
+langgraph
+pydantic
+python-telegram-bot>=20,<23
+google-api-python-client
+google-auth-oauthlib
